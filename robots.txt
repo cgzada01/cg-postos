@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cgzada01.github.io/cg-postos/sitemap.xml
